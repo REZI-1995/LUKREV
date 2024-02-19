@@ -1,0 +1,14 @@
+.article{
+	max-width: 1920px;
+}
+.h3{
+	size: 32px;
+	letter-spacing: 0;
+	line-height: 39px;
+}
+.p{
+	size: 16px;
+	letter-spacing: 0;
+	line-height: 26;
+	text-align: left;
+}
