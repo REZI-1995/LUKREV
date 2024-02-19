@@ -72,3 +72,9 @@ img {
 .office1 {
     max-width: 948px;
 }
+.dot {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    color: #fc2289;
+}
