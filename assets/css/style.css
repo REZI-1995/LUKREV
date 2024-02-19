@@ -9,7 +9,7 @@
 }
 @font-face {
     font-family: font1;
-    src: url('../fonts/archyedt-thin-webfont.ttf')
+    src: url('assets/fonts/archyedt-thin-webfont.ttf')
 }
 *{
     margin: 0;
