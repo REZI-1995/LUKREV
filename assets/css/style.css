@@ -1,0 +1,45 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+
+}
+a {
+	text-decoration: none;
+}
+ul {
+	list-style: none;
+}
+img {
+	max-width: 100%;
+}
+.article, .article2{
+	max-width: 1920px;
+	margin-top: 180px;
+}
+.div1, .div2{
+	display: inline-block;
+}
+.div1 {
+	max-width: 463px;
+	margin-left: 240px;
+}
+
+.div2 {
+	max-width: 707px;
+	margin-left: 840px;
+}
+	
+}
+.h3 {
+	size: 32px;
+	letter-spacing: 0px;
+	line-height: 39px;
+	margin-bottom: 60px;
+
+}
+.p {
+	size: 16px;
+	letter-spacing: 0px;
+	line-height:26px;
+}
