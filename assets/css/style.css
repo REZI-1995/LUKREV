@@ -72,9 +72,14 @@ img {
 .office1 {
     max-width: 948px;
 }
-.dot {
+.dots {
     width: 10px;
     height: 10px;
+    background-color: #FFFFFF;
     border-radius: 50%;
-    color: #fc2289;
+    display: inline-block;
+    margin-right: 20px;
+}
+.twin {
+    opacity: 30%;
 }
