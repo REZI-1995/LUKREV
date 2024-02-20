@@ -21,6 +21,7 @@ img {
 	display: inline-block;
 }
 .div1 {
+	font-family: font2;
 	max-width: 463px;
 	margin-left: 240px;
 }
@@ -33,6 +34,7 @@ img {
 	display: inline-block;
 }
 .div3 {
+	font-family: font2;
 	max-width: 463px;
 	margin-left: 1095px;
 }
@@ -42,6 +44,7 @@ img {
 	margin-left: 250px;
 }
 .h3 {
+	font-family: font1;
 	max-width: 463px;
 	margin-left: 240px;
 	margin-bottom: 98px;
@@ -50,6 +53,7 @@ img {
 	line-height: 39px;
 }
 .h31{
+	font-family: font1;
 	max-width: 167px;
 	margin-left: 1095px;
 	margin-bottom: 98px;
