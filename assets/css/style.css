@@ -17,7 +17,7 @@ img {
 	max-width: 1920px;
 	margin-top: 180px;
 }
-.div1, .div2{
+.div1, .div2,{
 	display: inline-block;
 }
 .div1 {
@@ -34,14 +34,25 @@ img {
 }
 .div3 {
 	max-width: 463px;
-	margin-left: 240px;
+	margin-left: 1095px;
 }
 
 .div4 {
 	max-width: 707px;
-	margin-left: 840px;
+	margin-left: 250px;
 }
 .h3 {
+	max-width: 463px;
+	margin-left: 240px;
+	margin-bottom: 98px;
+	size: 32px;
+	letter-spacing: 0px;
+	line-height: 39px;
+}
+.h31{
+	max-width: 167px;
+	margin-left: 1095px;
+	margin-bottom: 98px;
 	size: 32px;
 	letter-spacing: 0px;
 	line-height: 39px;
@@ -50,4 +61,7 @@ img {
 	size: 16px;
 	letter-spacing: 0px;
 	line-height:26px;
+}
+.p1{
+	padding-bottom: 22px;
 }
